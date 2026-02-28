@@ -7,7 +7,7 @@ Welcome to the Rock, Paper, Scissors Game project! This simple and interactive w
 
 ## Live Demo
 
-Check out the live demo of the Rock, Paper, Scissors Game [here](https://chauhan-hardik.github.io/Rock-Paper-Scissors/).
+Check out the live demo of the Rock, Paper, Scissors Game [here](https://spoorthi-keerthi.github.io/Rock-Paper-Scissors/).
 
 ## Features
 
